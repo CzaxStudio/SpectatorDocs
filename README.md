@@ -5,5 +5,5 @@ Download Spectator from the Website for your OS
 Source Code --> https://github.com/CzaxStudio/Spectator
 
 **Use it for Ethical purpose, We are not responsible for your unethical acts.**
-
-                                                      Follow me here --> https://github.com/CzaxStudio/ 
+                        Follow me here --> 
+                        https://github.com/CzaxStudio/ 

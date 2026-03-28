@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h> // For exit()
 
+// This is just made for FUN!
+
 // Function to calculate the factorial of a number
 long long int factorial(int n) {
     // Check for negative input

@@ -1,7 +1,7 @@
 # Spectator — GUI Framework
 
 > Build real desktop security tools with a native window and HTML/CSS UI.
-> Works on Windows, Linux, and macOS.
+> Works on Windows.
 
 ---
 
